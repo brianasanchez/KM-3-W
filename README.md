@@ -16,7 +16,9 @@ print(f'El consumo de combustible por kilómetro de {k} kilometos y de {l} litos
 
 print(" ") # print imprime un espacio
 
-![image](https://github.com/user-attachments/assets/faf8598c-ecdd-4c02-a1ce-67595a72f60c)
+![image](https://github.com/user-attachments/assets/a7042321-7b7a-4454-9623-546e4ae4f4af)
 
-![image](https://github.com/user-attachments/assets/cb173790-6b98-41bc-9708-05646f36576a)
+![image](https://github.com/user-attachments/assets/a9ab415d-5ea2-4f84-902d-742bed150ae1)
+
+
 
